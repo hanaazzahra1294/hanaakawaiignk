@@ -2,13 +2,15 @@
   "username": "hanaazzahra1294",
   "album": [
     "cutekawaiimolang"
-  ],
-  "init_jumlah_photo": 100,
+    ],
+  "init_jumlah_photo": 150,
   "pub_id": "pub-5536449935696720",
   "app_id": "ca-app-pub-5536449935696720~8645262963",
   "admob_banner_id": "ca-app-pub-5536449935696720/4732748747",
   "admob_interstitial_id": "ca-app-pub-5536449935696720/2106585402",
   "admob_native_id": "ca-app-pub-5536449935696720/5578926552",
+  "admob_rewared_id": "ca-app-pub-2709570304669027/3360937924",
+
 
   "admob_hpk_1": "Insurance",
   "admob_hpk_2": "Conference Call",
@@ -20,18 +22,17 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "startapp_app_id": "XXXX",
-
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": "",
+  "mopub_banner_id": "",
+  "mopub_interstitial_id": "",
+  "mopub_native_id": "",
 
   "interstitial_inverval": 3,
+  "rewarded_photo_inverval": 3,
 
+  "primary_ads": "ADMOB",
   "list_ads": [
     "ADMOB",
-    "UNITY",
-    "STARTAPP",
+    "MOPUB",
     "FAN"
   ]
 }
